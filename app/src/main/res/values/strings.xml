@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restcountries</string>
+    <string name="upload">Upload</string>
+    <string name="errorUpload">Ошибка загрузки с сервера или проверьте интернет</string>
+</resources>
